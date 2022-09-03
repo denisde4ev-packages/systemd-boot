@@ -1,7 +1,7 @@
 pkgname=systemd-boot
 pkgver=251.4_1
 pkgrel=1
-pkgdesc='Simple EFI Boot Manager' # gummiboot description
+pkgdesc='Simple EFI Boot Manager. systemd-bootx64.efi repackaged from systemd Arch package'
 arch=(x86_64)
 url='https://archlinux.org/packages/core/x86_64/systemd/'
 license=(GPL2 LGPL2.1) # same as systemd pkg
